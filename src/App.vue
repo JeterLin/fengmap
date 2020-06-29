@@ -1,5 +1,7 @@
 <template>
-  <div id="app"></div>
+  <div id="app">
+    <h2>fengmap demo</h2>
+  </div>
 </template>
 
 <script>
